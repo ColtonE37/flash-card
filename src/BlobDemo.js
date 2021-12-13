@@ -1,3 +1,3 @@
-// Map functin can all be done here 
+// Map function can all be done here
 // Element with array of objects
-// 
+//
